@@ -1,0 +1,14 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using iMac-de-Loic-M.local. Set the 'ServerName' directive globally to suppress this message
+[Wed May 04 14:40:17.413301 2022] [mpm_event:notice] [pid 19333:tid 4553883072] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 04 14:40:17.413789 2022] [core:notice] [pid 19333:tid 4553883072] AH00094: Command line: '/Users/loic/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/loic/Library/Application Support/Local/run/yf-S5tp12/conf/apache/apache2.conf'
+[Wed May 04 16:54:28.296796 2022] [mpm_event:notice] [pid 19333:tid 4553883072] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using iMac-de-Loic-M.local. Set the 'ServerName' directive globally to suppress this message
+[Wed May 04 17:05:45.524295 2022] [mpm_event:notice] [pid 32792:tid 4455402944] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 04 17:05:45.524779 2022] [core:notice] [pid 32792:tid 4455402944] AH00094: Command line: '/Users/loic/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/loic/Library/Application Support/Local/run/yf-S5tp12/conf/apache/apache2.conf'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-Federico.local. Set the 'ServerName' directive globally to suppress this message
+[Sat May 07 17:23:29.297299 2022] [mpm_event:notice] [pid 2216:tid 4565464576] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat May 07 17:23:29.297716 2022] [core:notice] [pid 2216:tid 4565464576] AH00094: Command line: '/Users/fredcst/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/fredcst/Library/Application Support/Local/run/PLZRSCPQS/conf/apache/apache2.conf'
+[Sun May 08 18:17:49.736888 2022] [mpm_event:notice] [pid 2216:tid 4565464576] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-Federico.local. Set the 'ServerName' directive globally to suppress this message
+[Sun May 08 18:19:37.379827 2022] [mpm_event:notice] [pid 8322:tid 4599473664] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun May 08 18:19:37.380243 2022] [core:notice] [pid 8322:tid 4599473664] AH00094: Command line: '/Users/fredcst/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/fredcst/Library/Application Support/Local/run/PLZRSCPQS/conf/apache/apache2.conf'
